@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/15-homework/static/css/main.28a13735.chunk.css",
+    "main.js": "/15-homework/static/js/main.43fcebbb.chunk.js",
+    "main.js.map": "/15-homework/static/js/main.43fcebbb.chunk.js.map",
+    "runtime-main.js": "/15-homework/static/js/runtime-main.dfb7329b.js",
+    "runtime-main.js.map": "/15-homework/static/js/runtime-main.dfb7329b.js.map",
+    "static/js/2.63eae7f3.chunk.js": "/15-homework/static/js/2.63eae7f3.chunk.js",
+    "static/js/2.63eae7f3.chunk.js.map": "/15-homework/static/js/2.63eae7f3.chunk.js.map",
+    "index.html": "/15-homework/index.html",
+    "precache-manifest.9509ba70acbca01b24cb8f670bce4d43.js": "/15-homework/precache-manifest.9509ba70acbca01b24cb8f670bce4d43.js",
+    "service-worker.js": "/15-homework/service-worker.js",
+    "static/css/main.28a13735.chunk.css.map": "/15-homework/static/css/main.28a13735.chunk.css.map",
+    "static/js/2.63eae7f3.chunk.js.LICENSE.txt": "/15-homework/static/js/2.63eae7f3.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/15-homework/static/media/1.bd479754.jpg",
+    "static/media/2.jpg": "/15-homework/static/media/2.8b06c80b.jpg",
+    "static/media/index.css": "/15-homework/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/arrow-c.svg": "/15-homework/static/media/arrow-c.8d7e030c.svg",
+    "static/media/arrow.svg": "/15-homework/static/media/arrow.5429b6f7.svg",
+    "static/media/avatar.jpg": "/15-homework/static/media/avatar.b62e3b04.jpg",
+    "static/media/chat.svg": "/15-homework/static/media/chat.16e3fd1e.svg",
+    "static/media/check.svg": "/15-homework/static/media/check.aed67ecc.svg",
+    "static/media/down.svg": "/15-homework/static/media/down.4de82427.svg",
+    "static/media/heart.svg": "/15-homework/static/media/heart.f326b22f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfb7329b.js",
+    "static/js/2.63eae7f3.chunk.js",
+    "static/css/main.28a13735.chunk.css",
+    "static/js/main.43fcebbb.chunk.js"
+  ]
+}
